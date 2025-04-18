@@ -28,6 +28,11 @@ SKU110K_fixed/
 
 注解文件格式为CSV，列包括：`image_name,x1,y1,x2,y2,class,image_width,image_height`
 
+如果您还没有SKU-110K数据集，可以从原始论文作者提供的链接下载：
+[SKU-110K数据集](https://github.com/eg4000/SKU110K_CVPR19)
+
+下载后将数据解压到项目目录下的`SKU110K_fixed`文件夹中。
+
 ## 环境配置
 
 ### 依赖安装
